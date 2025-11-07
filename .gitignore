@@ -61,6 +61,8 @@ data/chroma/
 .config/
 .replit
 replit.nix
+uv.lock
+replit.md
 
 # Temporary files
 *.tmp
