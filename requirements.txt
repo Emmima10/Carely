@@ -1,0 +1,12 @@
+apscheduler>=3.11.0
+chromadb>=1.2.2
+groq>=0.32.0
+gtts>=2.5.4
+pandas>=2.0.0
+plotly>=6.3.1
+pydantic>=2.0.0
+python-dotenv>=1.0.0
+requests>=2.31.0
+sqlmodel>=0.0.25
+streamlit>=1.50.0
+streamlit-mic-recorder>=0.0.8
